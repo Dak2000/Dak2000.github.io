@@ -10,6 +10,8 @@ Camera Effects
 
 ![filter](Minecraft.jpg?raw=true "Optional Title")
 
+*** 
+
 StoryScape
 
 <script src="/scripts/embed.js" data-vizorurl="https://patches.vizor.io/embed/kota/vr-project-copy-copy" ></script>
